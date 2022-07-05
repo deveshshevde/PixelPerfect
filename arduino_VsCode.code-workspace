@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../arduino_VsCode"
+		},
+		{
+			"name": "TEST_VSCODE",
+			"path": "../../Documents/PlatformIO/Projects/TEST_VSCODE"
+		}
+	],
+	"settings": {}
+}
